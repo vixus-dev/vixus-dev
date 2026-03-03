@@ -1,6 +1,6 @@
 # Olá, eu sou Vixus! 👋
 
-Sou estudante de Análise e Desenvolvimento de Sistemas na São Paule Tech School (antiga bandtech) e um desenvolvedor apaixonado por criar ferramentas úteis e sistemas interativos. Gosto de resolver problemas lógicos e construir soluções que vão do back-end até a interface do usuário.
+Sou estudante de Análise e Desenvolvimento de Sistemas na São Paulo Tech School (antiga bandtech) e um desenvolvedor apaixonado por criar ferramentas úteis e sistemas interativos. Gosto de resolver problemas lógicos e construir soluções que vão do back-end até a interface do usuário.
 
 ### 🔭 O que estou fazendo agora:
 * 🎓 Cursando **Análise e Desenvolvimento de Sistemas (ADS)** na **SPTech**.
