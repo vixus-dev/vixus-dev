@@ -33,8 +33,13 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na São Paulo Tech Schoo
 
 ### 📫 Como me encontrar:
 - E-mail: [Victormbbertolino@gmail.com]
+<!---->
 
 <div align="center">
+
+<a href="https://github.com/vixus-dev">
+  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=vixus-dev&layout=compact&theme=radical" />
+</a>
   
 <a href="https://github.com/vixus-dev">
   
@@ -45,6 +50,4 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na São Paulo Tech Schoo
 </a>
 </div>
 
-<a href="https://github.com/vixus-dev">
-  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=vixus-dev&layout=compact&theme=radical" />
-</a><!---->
+
