@@ -40,8 +40,8 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na São Paulo Tech Schoo
   
 <img width="40%" src="https://github-readme-stats.vercel.app/api?username=vixus-dev&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/> 
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vixus-dev&layout=compact&langs_count=7&theme=synthwave"/>
-<!---->
+<!--<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vixus-dev&layout=compact&langs_count=7&theme=synthwave"/>
+-->
 </a>
 </div>
 
