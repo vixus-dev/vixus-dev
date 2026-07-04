@@ -43,7 +43,9 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na São Paulo Tech Schoo
   
 <a href="https://github.com/vixus-dev">
 
-[![My GitFut card](https://gitfut.com/vixus-dev.png)](https://gitfut.com/vixus-dev)
+<a href="https://gitfut.com/vixus-dev">
+  <img src="https://gitfut.com/vixus-dev.png" width="400" alt="My GitFut card" />
+</a>
   
 <!--<img width="40%" src="https://github-readme-stats.vercel.app/api?username=vixus-dev&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/> -->
 
