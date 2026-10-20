@@ -47,9 +47,9 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na São Paulo Tech Schoo
   <table>
     <tr>
       <td align="center" valign="middle">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=vixus-dev&theme=radical&hide_border=true" alt="GitHub Streak" />
+        <img src="https://streak-stats.demolab.com?user=vixus-dev&theme=radical&hide_border=true" alt="GitHub Streak" />
         <br><br>
-        <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=vixus-dev&layout=compact&theme=radical" alt="Linguagens mais usadas" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vixus-dev&layout=compact&theme=radical" alt="Linguagens mais usadas" />
       </td>
       <td align="center" valign="middle">
         <a href="https://gitfut.com/vixus-dev">
